@@ -7,16 +7,16 @@
 
 # About Me
 
-## * Name: Dane Bellamy
-## * Class Of: 2030
-## * Age: 13
-## * DOB: May 8 2012
-## * POB: Phoenix AZ
-## * Hobbies: Gaming, coding, spending time with family
-## * Favorite Food: Homemade crunchwraps
-## * Favorite Game: Tom Clancy's Rainbow Six Siege and Geometry Dash
-## * Known Coding Languages: HTML, MD, Python, Luau (Lua for short), Luau, JS, CSS, C#, C
-## * Biggest Project: Remake of Geometry Dash
+##   Name: Dane Bellamy
+##   Class Of: 2030
+##   Age: 13
+##   DOB: May 8 2012
+##   POB: Phoenix AZ
+##   Hobbies: Gaming, coding, spending time with family
+##   Favorite Food: Homemade crunchwraps
+##   Favorite Game: Tom Clancy's Rainbow Six Siege and Geometry Dash
+##   Known Coding Languages: HTML, MD, Python, Luau (Lua for short), Luau, JS, CSS, C#, C
+##   Biggest Project: Remake of Geometry Dash
 
 # My Life
 
