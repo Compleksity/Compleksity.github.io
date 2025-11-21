@@ -9,3 +9,12 @@
 
 ## Slope
 [Slope](/slope.html)
+
+## Tiny Fishing
+[Tiny Fishing](/tinyfishing.html)
+
+## Eaglercraft
+[Eaglercraft](/eaglercraft.html)
+
+## Monkey Mart
+[Monkey Mart](/monkeymart.html)
